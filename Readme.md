@@ -2,6 +2,15 @@
 
 This repository contains Python scripts to collect Formula 1 (F1) data from the Ergast Developer API and convert it into a more usable format. The data includes lap timings and qualifying results for the year 2023.
 
+
+
+![Positions Along Laps](images/pos_mex_gp.png)
+
+
+
+![Laptimes - After Red Flag](images/rf_mex_gp.png)
+
+
 ## Files
 
 1. **main.py**: This script collects lap timings data for the F1 season in 2023. It requests data from the Ergast API, parses it, and saves it as a JSON file.
